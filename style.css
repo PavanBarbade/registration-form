@@ -1,0 +1,81 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	font-size: 14px;
+	background: #f2f2f2;
+}
+.container
+{
+	background: white;
+	width: 500px;
+	padding: 25px;
+	margin: 50px auto 0;
+	border-top: 5px solid blue;
+	box-shadow: 10px 10px 5px lightblue;
+
+}
+.container h2{
+		font-size: 24px;
+		text-align: center;
+		padding: 30px;
+}
+.inpute-name
+{
+	width: 90%;
+	position: relative;
+	margin: 30px auto ;
+}
+
+}
+.lock{
+	padding: 8px 11px;
+}
+.name{
+	width: 45%;
+	padding: 8px 0 8px 40px;
+}
+.pavan{
+
+	width: 60%;
+	padding: 8px 0 8px 40px;
+}
+.state{
+	width: 60%;
+	padding: 8px 0 8px 40px;
+	font-size: 14PX;
+
+}
+.check-button{
+	width: 10%;
+	padding: 8px;
+
+}
+.inpute-name span{
+	margin-left: 35px;
+}
+.text-name{
+	width: 100%;
+	padding: 8px 0 8px 40px;
+}
+.inpute-name i{
+	position: absolute;
+	font-size: 20px;
+	padding: 10px;
+	color: blue;
+	border-right: 1px solid #cccccc;
+}
+.gender{
+	margin: 30px;
+	font-size: 14px;
+	padding: 3px;
+	
+}
+.button{
+	width: 20%;
+	height: 30px;
+	background: green;
+	border: none;
+}
